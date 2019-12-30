@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d0e1ef0-6628-48a9-9761-2c8a8d156539" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VVSBP1pATClUot5zxh4HAFqa6t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.HelperTest">
+    <configuration name="HelperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.examples.Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.examples.Testing" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.examples.Testing.HelperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelperTest.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.examples.Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.examples.Testing" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.examples.Testing.HelperTest" />
+      <option name="METHOD_NAME" value="firstTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelperTest.testMergedList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.examples.Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.examples.Testing" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.examples.Testing.HelperTest" />
+      <option name="METHOD_NAME" value="testMergedList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelperTest.testStats" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udacity.examples.Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udacity.examples.Testing" />
+      <option name="MAIN_CLASS_NAME" value="com.udacity.examples.Testing.HelperTest" />
+      <option name="METHOD_NAME" value="testStats" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HelperTest" />
+        <item itemvalue="JUnit.HelperTest.testMergedList" />
+        <item itemvalue="JUnit.HelperTest.testStats" />
+        <item itemvalue="JUnit.HelperTest.firstTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d0e1ef0-6628-48a9-9761-2c8a8d156539" name="Default Changelist" comment="" />
+      <created>1577336632212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577336632212</updated>
+      <workItem from="1577336633876" duration="5954000" />
+      <workItem from="1577666730480" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="219" y="309" width="1632" height="772" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577341133379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="219" y="309" width="1632" height="772" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577341133379" />
+    <state width="1772" height="263" key="GridCell.Tab.0.bottom" timestamp="1577343626682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1772" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577343626682" />
+    <state width="1772" height="263" key="GridCell.Tab.0.center" timestamp="1577343626682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1772" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577343626682" />
+    <state width="1772" height="263" key="GridCell.Tab.0.left" timestamp="1577343626682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1772" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577343626682" />
+    <state width="1772" height="263" key="GridCell.Tab.0.right" timestamp="1577343626682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1772" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577343626682" />
+    <state x="527" y="180" key="SettingsEditor" timestamp="1577336707882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="527" y="180" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577336707882" />
+    <state x="635" y="293" width="672" height="678" key="search.everywhere.popup" timestamp="1577342142728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="635" y="293" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577342142728" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Testing$HelperTest.ic" NAME="HelperTest Coverage Results" MODIFIED="1577343170623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.udacity.examples.Testing.*</FILTER>
+    </SUITE>
+  </component>
+</project>
