@@ -60,4 +60,9 @@ public class HelperTest {
     public void testMergedList(){
         assertEquals("matt, laus, lucas, isaac", Helper.getMergedList(Arrays.asList("matt","laus","lucas","isaac")));
     }
+
+    @Test
+    public void testFilteredList(){
+        assertEquals(Arrays.asList("Matt","Laus"),Helper.getFilteredList(Arrays.asList("Matt","","Laus","")));
+    }
 }

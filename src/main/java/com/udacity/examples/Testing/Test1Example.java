@@ -8,7 +8,7 @@ public class Test1Example {
 
 	   public static void main(String args[]) {
 	      // Count empty strings
-	      List<String> empNames = Arrays.asList("sareeta", "", "john","");
+	      List<String> empNames = Arrays.asList("Matt", "", "Laus","");
 	      List<Integer> empLevel = Arrays.asList(3,3,3,5,7,2,2,5,7,5);
 	      List<Integer> yrsOfExperience = Arrays.asList(13,4,15,6,17,8,19,1,2,3);
 	      //print ten random numbers
@@ -22,9 +22,9 @@ public class Test1Example {
 			
 	      long count = Helper.getCount(empNames) ;
 	      
-	      System.out.println("Empty Strings: " + count);
+	      System.out.println("Non-Empty Strings: " + count);
 			
-	      count = Helper.getCount(empNames);
+	      count = Helper.getStringsOfLength3(empNames);
 	      System.out.println("Strings of length 3: " + count);
 			
 	      List<String> filtered = Helper.getFilteredList(empNames);
@@ -50,7 +50,4 @@ public class Test1Example {
 	      count = empNames.parallelStream().filter(string -> string.isEmpty()).count();
 	      System.out.println("Empty Strings: " + count);
 	   }
-		
-		
-	   
 }
